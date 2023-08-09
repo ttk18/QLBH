@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BH", "Acounting\BH.csproj", "{092A87AA-AD6C-4A60-A319-881C652FFFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonlibHCE", "CommonlibHCE\CommonlibHCE.csproj", "{0143CD4A-01C9-4614-BC51-394C07B42812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092A87AA-AD6C-4A60-A319-881C652FFFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092A87AA-AD6C-4A60-A319-881C652FFFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092A87AA-AD6C-4A60-A319-881C652FFFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092A87AA-AD6C-4A60-A319-881C652FFFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0143CD4A-01C9-4614-BC51-394C07B42812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0143CD4A-01C9-4614-BC51-394C07B42812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0143CD4A-01C9-4614-BC51-394C07B42812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0143CD4A-01C9-4614-BC51-394C07B42812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
